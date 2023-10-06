@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Olmosbek%Ashurov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Olmosbek%20Ashurov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <br>
 <h3 align="center">Software Engineer | Student at Yeoju | Gamer
