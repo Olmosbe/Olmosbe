@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Olmosbek%20Ashurov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <br>
-<h3 align="center">Information Systems Engineer | Student | Human
+<h3 align="center">Information Systems Engineer | Enthusiast | Human
 </h3>
 
 
@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **olmosashurov71@gmail.com**
 
-telegram @olmos_ashurov
+- ▶️ Telegram contact: **@olmos_ashurov**
+- You can test for free my project: **End-to-End Encryption. Not only Safe. Easy 🔒 Cipherkey.uz — Your data. Your control. Anywhere. Anytime. 👉 https://cipherkeyuz.onrender.com/**
  
 
 </p>
