@@ -6,9 +6,11 @@
 
 
 
-- 💬 Ask me about **python, matlab, postgresql and something else**
+- 💬 We could talk  about **almost everthing)**
 
 - 📫 How to reach me **olmosashurov71@gmail.com**
+
+telegram @olmos_ashurov
  
 
 </p>
