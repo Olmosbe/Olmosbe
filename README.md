@@ -11,7 +11,7 @@
 - 📫 How to reach me **olmosashurov71@gmail.com**
 
 - ▶️ Telegram contact: **@olmos_ashurov**
-- You can test for free my project: **End-to-End Encryption. Not only Safe. Easy 🔒 Cipherkey.uz — Your data. Your control. Anywhere. Anytime. 👉 https://cipherkeyuz.onrender.com/**
+- You can test for free my project: **End-to-End Encryption. Not only Safe and Easy but also Powerfull🔒 Cipherkey.uz — Your data. Your control. Anywhere. Anytime. 👉 https://cipherkeyuz.onrender.com/**
  
 
 </p>
